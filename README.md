@@ -67,21 +67,4 @@ Repositori ini berisi implementasi dari *Exercise 8 – Demonstrate how to elimi
 
 ---
 
-## **Persyaratan Sistem**
-- Mikrokontroler dengan dukungan FreeRTOS
-- STM32CubeMX untuk konfigurasi proyek
-- IDE pengembangan firmware
-
----
-
-## **Lisensi**
-Proyek ini dilisensikan di bawah [MIT License](LICENSE).
-
----
-
-## **Kontribusi**
-Kontribusi untuk meningkatkan proyek ini sangat diterima. Silakan buat *pull request* atau ajukan masalah di halaman *Issues*.
-
----
-
 Dengan memahami penggunaan semaphore, Anda dapat mengelola sumber daya bersama secara efisien dalam sistem multitasking.
