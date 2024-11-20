@@ -57,6 +57,12 @@ Repositori ini berisi implementasi dari *Exercise 8 – Demonstrate how to elimi
 
 ---
 
+## **Demonstrasi**
+![Exercise8](https://github.com/user-attachments/assets/624166aa-669c-406f-b8dc-e3fffcdba50c)
+
+
+---
+
 ## **Pelajaran yang Didapat**
 - **Mekanisme Semaphore**:
   - Kontrol akses sumber daya yang lebih tepat
